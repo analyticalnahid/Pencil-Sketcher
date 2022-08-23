@@ -1,6 +1,8 @@
 # Pencil-Sketcher
 A simple pencil sketcher using Opencv and Python
 
+<img src="Pencil Sketcher.png">
+
 ## How it works?
 Checkout my youtube video-> 
 
